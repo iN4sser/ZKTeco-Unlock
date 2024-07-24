@@ -1,4 +1,4 @@
-package com.example.zkteco_unlock
+package sa.nsr.zkteco_unlock
 
 import io.flutter.embedding.android.FlutterActivity
 

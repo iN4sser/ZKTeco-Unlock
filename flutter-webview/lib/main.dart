@@ -39,9 +39,6 @@ class _MyWebViewState extends State<MyWebView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('ZKTeco Unlock'),
-      ),
       body: WebView(
         initialUrl: '',
         onWebViewCreated: (WebViewController webViewController) {
